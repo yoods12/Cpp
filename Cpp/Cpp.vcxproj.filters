@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Class">
+      <UniqueIdentifier>{441b6679-3c78-4b52-b825-d04a92fce041}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Exception">
+      <UniqueIdentifier>{c435c6dc-32bd-427d-81ee-ded9a851b89b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Inheritance">
+      <UniqueIdentifier>{a5086081-78f5-476a-bc9c-51608b9f11cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Polymorphism">
+      <UniqueIdentifier>{290b91e4-cbe3-4a20-890f-4ecac369b92f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Template">
+      <UniqueIdentifier>{61f1d299-0602-47b6-8da3-5dc13303652e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="default constructor.cpp">
+      <Filter>소스 파일\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="default constructor 2.cpp">
+      <Filter>소스 파일\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="default constructor 3.cpp">
+      <Filter>소스 파일\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="dafalut constructor 4.cpp">
+      <Filter>소스 파일\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="defalut constructor 5.cpp">
+      <Filter>소스 파일\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="default constructor 6.cpp">
+      <Filter>소스 파일\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="default constructor 7.cpp">
+      <Filter>소스 파일\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="default constructor 8.cpp">
+      <Filter>소스 파일\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="default constructor 9.cpp">
+      <Filter>소스 파일\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="destructor.cpp">
+      <Filter>소스 파일\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="11.cpp">
+      <Filter>소스 파일\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="copy constructor.cpp">
+      <Filter>소스 파일\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="buffer.cpp">
+      <Filter>소스 파일\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="assignoverload.cpp">
+      <Filter>소스 파일\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="123.cpp">
+      <Filter>소스 파일\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="exception.cpp">
+      <Filter>소스 파일\Exception</Filter>
+    </ClCompile>
+    <ClCompile Include="exception example 1.cpp">
+      <Filter>소스 파일\Exception</Filter>
+    </ClCompile>
+    <ClCompile Include="Inheritance.cpp">
+      <Filter>소스 파일\Inheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="Inheritance 2.cpp">
+      <Filter>소스 파일\Inheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="Polymorphism Lab 1.cpp">
+      <Filter>소스 파일\Polymorphism</Filter>
+    </ClCompile>
+    <ClCompile Include="Template Problem 1.cpp">
+      <Filter>소스 파일\Template</Filter>
+    </ClCompile>
+    <ClCompile Include="Template problem 2.cpp">
+      <Filter>소스 파일\Template</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
