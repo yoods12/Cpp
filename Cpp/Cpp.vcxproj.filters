@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\Template">
       <UniqueIdentifier>{61f1d299-0602-47b6-8da3-5dc13303652e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Cpp Basics">
+      <UniqueIdentifier>{18a7806e-9881-4e35-a385-d884270aa808}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="default constructor.cpp">
@@ -95,6 +98,15 @@
     </ClCompile>
     <ClCompile Include="Template problem 2.cpp">
       <Filter>소스 파일\Template</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab 1.cpp">
+      <Filter>소스 파일\Cpp Basics</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab 2.cpp">
+      <Filter>소스 파일\Cpp Basics</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab 3.cpp">
+      <Filter>소스 파일\Cpp Basics</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
